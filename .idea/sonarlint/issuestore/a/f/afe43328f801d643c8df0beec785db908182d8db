@@ -1,0 +1,16 @@
+
+D
+java:S1481")Remove this unused "tail" local variable.(Ÿ¨Æûÿÿÿÿ
+Q	java:S125	"<This block of commented-out lines of code should be removed.(â¦â«
+?
+java:S2140")Use "java.util.Random.nextInt()" instead.(‚ğœ‚
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ÷·âøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™åâÖúÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¼©æìøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(³ğ¸ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÌâÃ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÉîÓ´ıÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ïÅõ8Ëı¦ÅÁ/
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¶é³î8¬Ç¯ÅÁ/
+X
+java:S3518";Make sure "count" can't be zero before doing this division.(Íæ‰8äÔÏÅÁ/
